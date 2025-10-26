@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-//Hello
+//Hello World
 using namespace std;
 
 void printHelp()
